@@ -1,0 +1,18 @@
+{
+	"manifest_version": 3,
+	"name": "Captcha SESC",
+	"version": "1.0",
+	"author": "dburkov05",
+	"description": "Разгадывает капчу на lycreg.urfu.ru",
+	"icons": {
+		"64": "notebook.png"
+	},
+	"content_scripts": [
+		{
+			"matches": ["https://lycreg.urfu.ru/"],
+			"js": ["inject.js"],
+			 "run_at": "document_idle"
+		}
+	],
+	"permissions": []
+}
