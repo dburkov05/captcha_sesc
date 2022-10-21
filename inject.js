@@ -1,4 +1,7 @@
 let unCaptchNums;
+if (typeof browser === "undefined") {
+    browser = chrome;
+}
 fetch(browser.runtime.getURL("numbers.json"))
 .then((req) => req.json())
 .then((json)=>{unCaptchNums=json;});
