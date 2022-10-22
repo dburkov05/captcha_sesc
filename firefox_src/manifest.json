@@ -17,10 +17,5 @@
     "web_accessible_resources": [
         "numbers.json"
     ],
-	"permissions": [],
-    "browser_specific_settings": {
-        "gecko": {
-            "update_url": "https://example.com/updates.json"
-        }
-    }
+	"permissions": []
 }
