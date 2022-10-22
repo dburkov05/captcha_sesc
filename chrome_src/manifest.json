@@ -1,5 +1,5 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"name": "Captcha SESC",
 	"version": "1.0",
 	"author": "dburkov05",
@@ -14,8 +14,9 @@
 			"run_at": "document_idle"
 		}
 	],
-    "web_accessible_resources": [
-        "numbers.json"
-    ],
+    "web_accessible_resources": [{
+        "resources": ["numbers.json"],
+        "matches": ["https://lycreg.urfu.ru/*"]
+    }],
 	"permissions": []
 }

@@ -8,7 +8,7 @@ fetch(browser.runtime.getURL("numbers.json"))
 
 let canvas = document.createElement('canvas');
 
-let ctx = canvas.getContext('2d');
+let ctx = canvas.getContext('2d', {'willReadFrequently': true});
 
 function getImg() {
     let img = document.createElement('img');
