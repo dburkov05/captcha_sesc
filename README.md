@@ -16,7 +16,14 @@
 
 ## Для bromite
 
-[userscript](https://raw.githubusercontent.com/dburkov05/captcha_sesc/main/bromite_src/captcha_sesc.user.js)
+1) скачайте файл [captcha_sesc.user.js](https://raw.githubusercontent.com/dburkov05/captcha_sesc/main/bromite_src/captcha_sesc.user.js)
+2) перейдите в настройки и выберете пунку User Scripts
+3) включите User Scripts
+4) нажмите по "Add script"
+5) в появившейся панели выберете файл из пункта 1
+6) согласитесь с установкой скрипта
+7) нажмите на переключатель напротив записи о скрипте
+8) теперь при заходе на сайт журнала нажмите на капчу для ее автоматического ввода
 
 ## активная закладка
 
