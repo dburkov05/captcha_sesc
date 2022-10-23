@@ -20,7 +20,9 @@
 
 ## активная закладка
 
-[captcha_sesc](javacript:{fetch('https://raw.githubusercontent.com/dburkov05/captcha_sesc/main/bromite_src/captcha_sesc.user.js').then((req)=>req.text()).then((text)=>eval(text));})
+1) скопируйте текст из файла bookmark.txt в закладки
+2) при заходе на сайт lycreg.urfu.ru нажмите на закладку
+3) нажмите на картинку с капчей
 
 # Благодарности
 
