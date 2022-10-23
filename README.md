@@ -18,6 +18,10 @@
 
 [userscript](https://raw.githubusercontent.com/dburkov05/captcha_sesc/main/bromite_src/captcha_sesc.user.js)
 
+## активная закладка
+
+[captcha_sesc](javacript:{fetch('https://raw.githubusercontent.com/dburkov05/captcha_sesc/main/bromite_src/captcha_sesc.user.js').then((req)=>req.text()).then((text)=>eval(text));})
+
 # Благодарности
 
 Используется изображение из репозитория: https://github.com/game-icons/icons
