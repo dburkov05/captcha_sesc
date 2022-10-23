@@ -14,6 +14,10 @@
 5) в появившемся окне выберите папку из пункта 1
 6) готово
 
+## Для bromite
+
+[userscript](./bromite_src/captcha_sesc.user.js)
+
 # Благодарности
 
 Используется изображение из репозитория: https://github.com/game-icons/icons
