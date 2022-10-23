@@ -16,7 +16,7 @@
 
 ## Для bromite
 
-[userscript](https://raw.githubusercontent.com/dburkov05/captcha_sesc/main/bromite_src/captcha_sesc.user.js download)
+<a href="https://raw.githubusercontent.com/dburkov05/captcha_sesc/main/bromite_src/captcha_sesc.user.js" download>скачать userscript</a>
 
 # Благодарности
 
