@@ -5,5 +5,6 @@
 
 [Аддон для firefox](https://addons.mozilla.org/ru/firefox/addon/captcha_sesc/)
 
+# Благодарности
 
 Используется изображение из репозитория: https://github.com/game-icons/icons
