@@ -4,8 +4,9 @@
 # Установка
 
 [Аддон для firefox](https://addons.mozilla.org/ru/firefox/addon/captcha_sesc/)
+[Расширение для chromium-based(Chrome, Yandex.browser, etc.)](https://chrome.google.com/webstore/detail/captcha-sesc/lbjmdcabofhlcjgjcjlhnbfffjmobohl)
 
-## Для Chromium-based браузеров
+## Установка из исходного кода (Для Chromium-based браузеров)
 
 1) скопируйте в какую либо папку содержимое папки chrome_src
 2) перейдите по адресу chrome://extensions
