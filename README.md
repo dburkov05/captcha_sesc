@@ -3,7 +3,7 @@
 
 # Установка
 
-[Аддон для firefox](https://addons.mozilla.org/ru/firefox/addon/captcha_sesc/)
+[Аддон для firefox](https://addons.mozilla.org/ru/firefox/addon/captcha_sesc/)  
 [Расширение для chromium-based(Chrome, Yandex.browser, etc.)](https://chrome.google.com/webstore/detail/captcha-sesc/lbjmdcabofhlcjgjcjlhnbfffjmobohl)
 
 ## Установка из исходного кода (Для Chromium-based браузеров)
